@@ -1,2 +1,3 @@
 # Nanobattery
 Ongoing Nanobattery R&amp;D
+Nanobattery is intended to solved problems with emergency battery needs with modern day cellphone usage. As battery technology for cellphones has stagnated in terms of longevity for the last 5 years, its important to understand the scenarios where a call in necessary in emergency scenarios. Nanobattery uses supercapacitors as a powerdense alternative to lithium-ion batteries to support a 1% charge in most scenarios. Tests ongoing...
